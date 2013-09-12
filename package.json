@@ -1,0 +1,14 @@
+{
+  "name": "Twit-Term",
+  "version": "0.0.1",
+  "description": "Node.js command line Twitter Client",
+  "homepage": "https://github.com/mikerudoloh/twit-term",
+  "author": "Mike Rudoloh",
+
+  "dependencies": {
+    "lodash": "*",
+    "twitter": "*",
+    "async": "*",
+    "cli-color": "*"
+  }
+}
